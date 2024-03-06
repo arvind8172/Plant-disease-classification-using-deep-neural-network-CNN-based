@@ -1,0 +1,2 @@
+# Plant-disease-classification-using-deep-neural-network-CNN-based
+Plant disease classification using a convolutional neural network for deep learning based on CNN technology is an innovative approach to identifying and categorizing diseases affecting plants. By leveraging the power of artificial intelligence and image recognition, ultimately leading to improved crop management and higher yields in agriculture.
