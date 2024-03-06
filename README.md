@@ -6,3 +6,14 @@ This technology can help farmers detect diseases early on, allowing for prompt t
 Additionally, it can assist in reducing the use of pesticides by targeting treatments only where they are needed, 
 leading to cost savings and environmental benefits. Overall, plant disease classification using CNNs 
 holds great potential for revolutionizing the way we approach crop management and ensuring food security for the future.
+
+
+
+Project team member
+Arvind Kumar
+Ankit tejwan
+Deepak kumar
+
+
+#Under the supervision 
+Prof. Sudhir Goswami
